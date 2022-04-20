@@ -1,0 +1,20 @@
+.quem-somos{
+    background-color: rgb(45, 196, 226);
+    color:aliceblue;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.parceiros{
+    background-color: rgb(64, 234, 138);
+    color:aliceblue;
+}
+.servicos{
+    background-color: rgb(240, 161, 58);
+    color:aliceblue;
+}
+.bg-footer{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
